@@ -12,7 +12,7 @@ Kimi 支持把 ZIP 或 GitHub 仓库安装为技能，也支持在 Kimi Work 里
 
 把仓库 URL 发给 Kimi：
 
-> 从这个仓库安装 claymotion 技能，并添加到我的 Kimi 工作区：https://github.com/<you>/claymotion
+> 从这个仓库安装 claymotion 技能，并添加到我的 Kimi 工作区：https://github.com/lastfox2000/claymotion
 
 Kimi 会拉取 `SKILL.md` 和配套文件。
 

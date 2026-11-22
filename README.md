@@ -4,6 +4,12 @@
 
 这个包把 [lemo-animi](https://github.com/lemomo-ai/lemo-animi) 的定格动画工作流、Qwen-Image 2.1 / ComfyUI 适配器、跨平台 CLI 和平台说明打成一个 **Agent Skills** 包，豆包、Grok Bot、Kimi、Codex、Claude Code 都能加载。
 
+**GitHub**：https://github.com/lastfox2000/claymotion
+
+```bash
+git clone https://github.com/lastfox2000/claymotion.git
+```
+
 ## 它做什么
 
 - 写故事骨架、节拍、镜头表、分层动作表

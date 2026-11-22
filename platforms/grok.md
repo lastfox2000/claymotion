@@ -15,7 +15,7 @@ Grok Bot 读取机器人电脑上的技能库：
 或者直接在机器人电脑上运行：
 
 ```bash
-git clone <your-repo> ~/claymotion-src
+git clone https://github.com/lastfox2000/claymotion.git ~/claymotion-src
 sh ~/claymotion-src/scripts/install_grok.sh
 ```
 
