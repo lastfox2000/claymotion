@@ -1,0 +1,8 @@
+Clay stop-motion assets. Material: oil-based modelling clay, the surface showing tiny fingerprints, pinch marks and press marks; rounded, full shapes; real handmade objects photographed on a tabletop set, not 3D renders, not digital painting. The set has soft studio lighting with the key light from the upper left and soft shadows; standalone character and prop assets have even, flat light. Saturated, bright colours, mainly primaries such as cream yellow, tomato red, sky blue and grass green.
+
+8-cell effect sheet. Transparent-background PNG: the background is fully transparent (alpha channel). No white background, no checkerboard, no ground, no cast shadow, no scenery of any kind.
+Two rows of 4, read left to right, top to bottom: 8 stages of the same effect, from appearing to vanishing. Leave clear gaps between the 8; they must not touch. Do not draw any character; draw only the effect itself.
+Effect: a clay impact splat: a golden pancake flattening against a surface, with a burst of clay crumbs and a soft squash ring; 8 stages from the first impact, through the flatten and the crumb burst, to the settle
+Effects are made of clay too, in whichever kind is listed: splashes and batter are beads of translucent clay droplets, smoke and steam are rolled balls of grey-white clay, sparks are tiny yellow clay crumbs, stars are flattened yellow clay. Draw only the effects listed above; add nothing that is not listed.
+
+All characters and designs are original and must not resemble any existing animated character, toy or brand. No text, letters, numbers, logos, watermarks or signatures anywhere in the image.

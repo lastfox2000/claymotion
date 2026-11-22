@@ -1,0 +1,32 @@
+claymotion
+==========
+
+This package bundles and adapts:
+
+1. lemo-animi
+   Copyright (c) 2026 Lemomo (LemoLab)
+   https://github.com/lemomo-ai/lemo-animi
+   Licensed under CC BY-NC 4.0. The original scripts, style packages,
+   references and documentation remain under that licence.
+
+2. claymotion additions
+   The cross-platform CLI, ComfyUI/Qwen adapter, OpenAI-compatible adapter,
+   H3 adapter, setup script and platform notes are provided under the MIT
+   licence. They are distributed together with lemo-animi; the combined
+   package must not be used commercially without a lemo-animi commercial
+   licence.
+
+3. Source Han Sans (subset)
+   Copyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font
+   Name 'Source'. Licensed under the SIL Open Font License, Version 1.1.
+   See fonts/LICENSE-SourceHanSans.txt.
+
+4. Qwen-Image 2.1 and MiniMax H3
+   Model weights and hosted services are governed by their own licences and
+   terms. This package only calls them; it does not redistribute weights.
+
+No trademark or endorsement by Lemomo, Alibaba, MiniMax, ByteDance, xAI or
+Moonshot is implied.
+
+Commercial use of films made with lemo-animi requires a commercial licence
+from lemomo.studio@gmail.com.

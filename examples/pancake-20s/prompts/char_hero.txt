@@ -1,0 +1,8 @@
+Clay stop-motion assets. Material: oil-based modelling clay, the surface showing tiny fingerprints, pinch marks and press marks; rounded, full shapes; real handmade objects photographed on a tabletop set, not 3D renders, not digital painting. The set has soft studio lighting with the key light from the upper left and soft shadows; standalone character and prop assets have even, flat light. Saturated, bright colours, mainly primaries such as cream yellow, tomato red, sky blue and grass green.
+
+Character sheet. Transparent-background PNG: the background is fully transparent (alpha channel). No white background, no checkerboard, no ground, no cast shadow, no scenery of any kind.
+Draw the same character four times in one row, left to right: front, three-quarter view (facing right), full side profile (facing right), back. Leave clear gaps between the four figures; they must not touch or overlap. All four are the same size. Feet on the same horizontal line. Each full body is complete.
+Character: a small penguin made of oil-based clay, black back, cream belly, orange beak and feet, big head, small body, big eyes, simple round design, visible fingerprints and soft clay texture. He wears a tiny tomato-red clay apron with a cream check pattern, sculpted from clay, not real fabric.
+Keep the design simple, round and solid: big head, small body, big eyes, a mouth that can open very wide (for exaggerated expressions). Clothes and accessories are moulded clay too, not real fabric.
+
+All characters and designs are original and must not resemble any existing animated character, toy or brand. No text, letters, numbers, logos, watermarks or signatures anywhere in the image.

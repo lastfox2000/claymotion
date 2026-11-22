@@ -1,0 +1,3 @@
+[scene] the same handmade clay kitchen as the reference: the tomato-red and off-white check tablecloth and the edge of the wooden table fill the frame, the warm cream-yellow wall behind is softly blurred, a hint of the blue stove and blue pot on the left, a glass jar blurred on the right, shallow depth of field, visible clay texture, no character
+[shot_size] medium-close background at eye level, camera just above the table edge, shallow depth of field
+[margin] a clean flat strip of tablecloth along the bottom for the penguin to stand on

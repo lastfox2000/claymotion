@@ -1,0 +1,3 @@
+[scene] the same handmade clay kitchen as the reference: warm cream-yellow walls, tomato-red and off-white check tablecloth, a small wooden stool, a little blue stove on the left with a blue pot, glass jars and a green plant on the right, a window with soft morning light, visible clay fingerprints and tool marks
+[shot_size] medium shot from the right of the stove at eye level, turned about 45 degrees from the wide reference; the stool is now centre-left, the stove and window are behind it on the left, the jars are in the back right; same tablecloth, same wall colour, not the same composition as the reference
+[margin] a flat empty patch of tablecloth in the lower centre where the penguin and stool stand

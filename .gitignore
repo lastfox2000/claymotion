@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+
+# film outputs and working files
+out/
+work/
+frames/
+audio/*.wav
+audio/vo/
+*.mp4
+*.mov
+
+# local test renders
+examples/**/src/*.png
+examples/**/out/

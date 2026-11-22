@@ -1,0 +1,29 @@
+lemo-animi
+Copyright (c) 2026 Lemomo (LemoLab)
+https://github.com/lemomo-ai/lemo-animi
+
+lemo-animi is licensed under the Creative Commons Attribution-NonCommercial
+4.0 International licence (CC BY-NC 4.0).
+
+  Legal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+  Summary:    https://creativecommons.org/licenses/by-nc/4.0/
+
+In short:
+
+- Non-commercial use is free. You may share and adapt lemo-animi for
+  non-commercial purposes, with credit: "lemo-animi by Lemomo (LemoLab)",
+  a link to https://github.com/lemomo-ai/lemo-animi and to the licence, and
+  a note if you changed it.
+
+- Commercial use needs a commercial licence. This includes using films made
+  with lemo-animi commercially, for example in advertising, client work,
+  monetised channels or products. To ask for one, email
+  lemomo.studio@gmail.com.
+
+Third-party material keeps its own licence:
+
+- Source Han Sans, in plugin/skills/lemo-animi/fonts/: SIL Open Font
+  License 1.1 (see LICENSE-SourceHanSans.txt there).
+- The instrument sample libraries that setup downloads keep their own
+  licences.
+- Narration uses Microsoft Edge online voices, under Microsoft's terms.
